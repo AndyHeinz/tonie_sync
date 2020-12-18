@@ -9,7 +9,6 @@ setup(name='tonie_sync',
       license='MIT',
       packages=['tonie_sync'],
       install_requires=[
-          'tonie_api',
           'spotdl'
       ],
       zip_safe=False)
